@@ -28,6 +28,16 @@ How to run:
 
 
 
+CREDITS
+The whole code was refactored by catscatscats99 to be more professional than my messy version.
+He also kindly wrote this readme.txt :D
+Which made me forgot this small credits section, sorry about that. 
+
+
+
+
+
+
 
 
 
